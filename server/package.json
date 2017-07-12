@@ -1,0 +1,18 @@
+{
+  "name": "webrtc-examples",
+  "version": "0.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masterpg/webrtc-examples.git"
+  },
+  "author": "masterpg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masterpg/webrtc-examples/issues"
+  },
+  "homepage": "https://github.com/masterpg/webrtc-examples#readme",
+  "devDependencies": {
+    "ws": "^1.1.1"
+  }
+}
